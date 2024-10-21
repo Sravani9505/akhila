@@ -1,0 +1,5 @@
+hi welocme to devops lab
+ansible
+git
+chef
+scrum
